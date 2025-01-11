@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "math.js": "^1.1.46",
+    "mathjs": "^14.0.1",
+    "mongoose": "^8.9.4",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2"
+  }
+}
